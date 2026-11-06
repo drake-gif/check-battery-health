@@ -38,6 +38,6 @@ Option 2: VS Code
 2. Go to File → Open Folder and select your project folder.
 3. Open `battery_status.py`.
 4. Open terminal and run `pip install psutil`. 
-5. Click the ▶ Run button at the top right, or run `python battery_status.py` in the terminal.
+5. Click the Run button at the top right, or run `python battery_status.py` in the terminal.
 
 
