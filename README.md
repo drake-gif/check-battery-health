@@ -20,6 +20,7 @@ Setup and Running
 
 Option 1: Terminal
 
+ Clone repository ``` git clone https://github.com/drake-gif/check-battery-health.git ```
 1. Put `battery_status.py` in a folder, e.g. `battery-project`.
 2. Open a terminal in that folder.
 3. Install the dependency:
